@@ -1,0 +1,35 @@
+{
+    "android": {
+        "build": 1,
+        "version": "22.0.0.m1",
+        "url": "https://play.google.com/store/apps/details?id=com.enraze.bhko"
+    },
+    "words": {
+        "main": "TABAK"
+    },
+    "dictionary": [
+        "ASLAN",
+        "BALLI",
+        "CEVAP",
+        "DURAK",
+        "EZBER",
+        "FERAH",
+        "GAYET",
+        "HAZIM",
+        "ISSIZ",
+        "JOKER",
+        "KATIR",
+        "KOLAY",
+        "LAZIM",
+        "MERAK",
+        "NAZLI",
+        "OLGUN",
+        "PAZAR",
+        "RAMAK",
+        "SELAM",
+        "SULAK",
+        "TABAK",
+        "TARAK",
+        "YOSUN"
+    ]
+}
