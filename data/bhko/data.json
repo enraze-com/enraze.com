@@ -2,9 +2,19 @@
     "android": {
         "build": 1,
         "version": "22.0.0.m1",
-        "url": "https://play.google.com/store/apps/details?id=com.enraze.bhko"
+        "url": "https://play.google.com/store/apps/details?id=com.enraze.bhko",
+        "other_languages": [{
+            "language": "English",
+            "url": "https://play.google.com/store/apps/details?id=com.enraze.flwg",
+            "status": "beta"
+        }],
+        "other_games": [{
+            "name": "AHKO",
+            "url": "https://play.google.com/store/apps/details?id=com.enraze.ahko",
+            "status": "beta"
+        }]
     },
     "game": {
-        "start": "2022-05"
+        "start": "2022-01"
     }
 }
