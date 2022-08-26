@@ -24,8 +24,8 @@
         ]
     },
     "game": {
-        "start": "2022-01",
-        "latest": "2022-12",
+        "start": { "month": 1, "year": 2022 },
+        "latest": { "month": 12, "year": 2022 },
         "dv": 1
     }
 }
