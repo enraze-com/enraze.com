@@ -1,7 +1,7 @@
 {
     "android": {
         "build": 1,
-        "version": "22.0.0.m1",
+        "version": "22.1.0",
         "url": "https://play.google.com/store/apps/details?id=com.enraze.bhko",
         "other_languages": [{
             "name": "FLWG",
@@ -25,6 +25,7 @@
     },
     "game": {
         "start": "2022-01",
+        "latest": "2022-12",
         "dv": 1
     }
 }
